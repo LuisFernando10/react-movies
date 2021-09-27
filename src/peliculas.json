@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "OBLIVION (2012)",
+        "calificacion": "8.3",
+        "director": "Joss Whedon",
+        "actores": "Robert Downey Jr., Chris Evans, Chris Hemsworth",
+        "fecha": "1 May 2015",
+        "duracion": "2h 21min",
+        "img": "images/uploads/mv1.jpg",
+        "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.."
+    },
+    {
+        "titulo": "blade runner (2015)",
+        "calificacion": "7.3",
+        "director": "Peyton Reed",
+        "actores": "Paul Rudd, Michael Douglas",
+        "fecha": "1 May 2015",
+        "duracion": "2h 34min",
+        "img": "images/uploads/mv3.jpg",
+        "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.."
+    }
+]
