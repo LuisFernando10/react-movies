@@ -16,7 +16,7 @@
         "actores": "Paul Rudd, Michael Douglas",
         "fecha": "1 May 2015",
         "duracion": "2h 34min",
-        "img": "images/uploads/mv3.jpg",
+        "img": "images/uploads/mv2.jpg",
         "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.."
     },
     {
@@ -36,7 +36,7 @@
         "actores": "Raul, Manuela",
         "fecha": "28 Feb 2013",
         "duracion": "1h 36min",
-        "img": "images/uploads/mv3.jpg",
+        "img": "images/uploads/mv4.jpg",
         "descripcion": "Una película muy interesante"
     },
     {
@@ -46,8 +46,8 @@
         "actores": "Paul Rudd, Michael Douglas",
         "fecha": "1 May 2015",
         "duracion": "2h 34min",
-        "img": "images/uploads/mv3.jpg",
-        "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.."
+        "img": "images/uploads/mv5.jpg",
+        "descripcion": "Muy buenas críticas sobre éste agente de seguridad"
     },
     {
         "titulo": "Casa embrujada (2015)",
@@ -56,8 +56,8 @@
         "actores": "Ramas, Paul, Walker",
         "fecha": "19 Jun 2015",
         "duracion": "2h 34min",
-        "img": "images/uploads/mv3.jpg",
-        "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.."
+        "img": "images/uploads/mv-it1.jpg",
+        "descripcion": "Muy entretenida para pasar el rato a la pantalla"
     },
     {
         "titulo": "El chaleo Antibalas (2020)",
@@ -66,7 +66,7 @@
         "actores": "Paul Rudd, Michael Douglas",
         "fecha": "18 Sep 2020",
         "duracion": "2h 15min",
-        "img": "images/uploads/mv3.jpg",
+        "img": "images/uploads/mv-item7.jpg",
         "descripcion": "Es sobre disparos y mucha acción"
     }
 ]
