@@ -15,6 +15,23 @@ function App() {
     const total_page = 3;
     let peliculas = JsonPelicula;
 
+    const searchMovie = async () => {
+       let url = 'https://lucasmoy.dev/data/react/peliculas.json';
+
+       const result_movies = await fetch( url, {
+           'method': 'GET',
+           'headers': {
+               'Accept': 'application/json',
+               'Content-Type': 'application/json'
+           }
+       });
+
+       const json_result = await result_movies.json();
+
+       console.log(json_result)
+    }
+    searchMovie();
+
     const loadMovies = () => {
         peliculas = peliculas.slice(
             ( paginaActual - 1 ) * total_page,
